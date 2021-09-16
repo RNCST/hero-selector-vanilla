@@ -9,6 +9,8 @@
 
 ## 📖 What I USE 
 
-
+- HTML 
+- CSS 
+- JAVASCRIPT 
 
 
